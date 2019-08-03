@@ -1,8 +1,8 @@
 # Starter Web Project
 
-##introduction
+## introduction
 
-##purpose
+## purpose
 
 ## Deployment
 
