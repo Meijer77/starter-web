@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+changing in myfeature branch
 
 ## Purpose
 
@@ -15,3 +16,4 @@ add 10.000 euro
 ## Dostuff
 
 2019 git.training copyright
+blah blagh
