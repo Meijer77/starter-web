@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 ## What you can do to tribute
 
 ## Dostuff
+
+2019 git.training copyright
