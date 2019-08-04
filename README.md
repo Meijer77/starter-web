@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 ## What you can do to tribute
 
+add 10.000 euro
+
 ## Dostuff
 
 2019 git.training copyright
