@@ -15,5 +15,5 @@ add 10.000 euro
 
 ## Dostuff
 
-2019 git.training copyright
+2019-2020 git.training copyright
 blah blagh
